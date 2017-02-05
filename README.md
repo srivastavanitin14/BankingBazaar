@@ -1,0 +1,2 @@
+# BankingBazaar
+BankingBazaar.com is an online marketplace where user can compare loans from India's top banks and NBFCs, from anywhere and at anytime. It helps you compare and choose from various financial product such as Home Loan, Car Loan, Education Loan, Presonal Loan, Business Loan and Gold Loan. This plateform compare loan offerings on the basis of key criteria such as interest rates and processing fees.
