@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+@media only screen and (min-width: 150px)
+{
+	
+}
+
+@media only screen and (min-width: 320px)
+{
+	#icon-row div{width:40%; text-align: center;}
+	#icon-row div a div{ padding: 33%;width:80%; border:8px solid #86b0cb;margin:0 auto;}
+}
+
+@media only screen and (min-width: 600px)  {
+	#icon-row div{width:33%;padding:1%;}
+	#icon-row div a div{ padding: 33%;width:80%; border:8px solid #86b0cb;margin:0 auto;}
+}
+
+@media only screen and (min-width: 1024px)  
+{
+	#icon-row div{text-align: center;padding:1%;width:33.3%}
+	#icon-row div a div{ padding: 20%;width:40%; border:8px solid #86b0cb;margin:0 auto;}
+}

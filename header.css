@@ -1,0 +1,16 @@
+#header-div{height:80px;background-color: black;}
+#left-header-div{height:80px;line-height: 80px;float: left;padding-left:10px;background-color: black;}
+#left-header-div a:hover{text-decoration: none;}
+#left-header-div #s1{font-family: verdana;font-size: 28px;color: white; font-weight: bold;}
+#left-header-div #s2{font-family: verdana;font-size: 14px;color: white;}
+#right-header-div{height:80px;line-height: 25px;float: right;text-align: right;padding-right: 10px;background-color: black;}
+#right-header-div a{font-family: arial;font-size: 16px;color: white;}
+ul {list-style-type: none;margin: 0px;padding: 0;overflow: hidden;}
+li {float: right;}
+li a, .bdropbtn {display: inline-block;color: white;text-align: center;padding: 6px 16px;text-decoration: none;}
+li a:hover, .bdropdown:hover .bdropbtn {background-color: #222;}
+li.bdropdown {display: inline-block;}
+.bdropdown-content {display: none;position: absolute;background-color: #222;min-width: 160px;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);}
+.bdropdown-content a {color: black;padding: 2px 16px;text-decoration: none;display: block;text-align: left;}
+.bdropdown-content a:hover {background-color: #444;}
+.bdropdown:hover .bdropdown-content {display: block;}

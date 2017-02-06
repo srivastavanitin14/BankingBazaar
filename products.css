@@ -1,0 +1,30 @@
+#products-div{background: url(../images/bg.png) top center no-repeat;width:100%;background-size: cover;}
+#icon-row{margin-top:10px;margin-bottom:10px}
+#icon-row div a{text-decoration: none;color:white;}
+
+#icon-row div a div img{width: 60px;}
+#icon-row div a span{font-size: 16px;}
+
+#icon-row div a:hover #d1 {background: url(../images/web/Untitled-15.png) center no-repeat;border-color: rgb(107,142,35);background-color: white;} 
+#icon-row div a:hover #s1{color:rgb(107,142,35);}
+#d1{ background: url(../images/web/Untitled-16.png) center no-repeat;background-color: white;}
+
+#icon-row div a:hover #d2 {background: url(../images/web/Untitled-23.png) center no-repeat;border-color: rgb(160,82,45);background-color: white;} 
+#icon-row div a:hover #s2{color:rgb(160,82,45);}
+#d2{ background: url(../images/web/Untitled-24.png) center no-repeat;background-color: white;}
+
+#icon-row div a:hover #d3 {background: url(../images/web/Untitled-25.png) center no-repeat;border-color: rgb(3,171,255);background-color: white;} 
+#icon-row div a:hover #s3{color:rgb(3,171,255);}
+#d3{ background: url(../images/web/Untitled-26.png) center no-repeat;background-color: white;}
+
+#icon-row div a:hover #d4 {background: url(../images/web/Untitled-7.png) center no-repeat;border-color: rgb(28,179,188);background-color: white;} 
+#icon-row div a:hover #s4{color:rgb(28,179,188);}
+#d4{ background: url(../images/web/Untitled-8.png) center no-repeat;background-color: white;}
+
+#icon-row div a:hover #d5 {background: url(../images/web/Untitled-27.png) center no-repeat;border-color: rgb(184,137,51);background-color: white;} 
+#icon-row div a:hover #s5{color:rgb(184,137,51);}
+#d5{ background: url(../images/web/Untitled-28.png) center no-repeat;background-color: white;}
+
+#icon-row div a:hover #d6 {background: url(../images/web/Untitled-35.png) center no-repeat;border-color: rgb(252,238,80);background-color: white;} 
+#icon-row div a:hover #s6{color:rgb(252,238,80);}
+#d6{ background: url(../images/web/Untitled-36.png) center no-repeat;background-color: white;}

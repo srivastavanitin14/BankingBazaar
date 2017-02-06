@@ -1,0 +1,4 @@
+@CHARSET "UTF-8";
+#emidiv{height:60px;line-height:60px;font-size:22px;background-color:rgb(60,60,0);border-top-left-radius: 20px;border-top-right-radius: 20px;color:white;}
+#intrsRate,#duration{text-align: center;}
+th,td{text-align: center;}
